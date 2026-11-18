@@ -1,0 +1,1 @@
+Q3/data/store1.txt: Rs 15000.5

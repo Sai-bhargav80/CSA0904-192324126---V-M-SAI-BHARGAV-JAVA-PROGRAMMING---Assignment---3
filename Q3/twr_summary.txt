@@ -1,0 +1,4 @@
+Q3/data/store1.txt: Rs 15000.5
+Q3/data/store2.txt: Rs 18500.75
+Q3/data/store3.txt: Rs 22000.0
+GRAND TOTAL: Rs 55501.25
